@@ -1,3 +1,4 @@
+# Problema 1 Numeros Aleatorios.
 string_seed = (input('Ingrese el numero aleatorio de N:'))
 size = len(string_seed)
 print('el numero tendra por ende cantidad de digitos:', size)
