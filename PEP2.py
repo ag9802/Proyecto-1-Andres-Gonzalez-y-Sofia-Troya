@@ -1,3 +1,4 @@
+# Problema 2
 string_number= int(input('Ingrese la cantidad de terminos:'))
 suma = 0
 for i in range(1,string_number):
